@@ -1,4 +1,4 @@
-# Hi there, I'm Philippe Moty
+# Philippe Moty
 Welcome to my github profile
 
 ## Technologies used
